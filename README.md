@@ -1,4 +1,4 @@
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000/login) with your browser to see the result.
 
 # bug-tracker
 
@@ -33,5 +33,5 @@ A bug-tracking and task management web application built with Next.js and ReactJ
 6. Run the development server:
    npm run dev
    
-8. Open http://localhost:3000 to view the app in your browser.
+8. Open http://localhost:3000/login to view the app in your browser.
 >>>>>>> a6a8c203cccd838ee60d6f39d17885cffa7049ed
